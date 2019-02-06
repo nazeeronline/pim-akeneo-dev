@@ -1,0 +1,3 @@
+1580846601
+Akeneo.Pim.Structure.Component.Model.VariantAttributeSet
+O:49:"Symfony\Component\Validator\Mapping\ClassMetadata":10:{s:11:"constraints";a:1:{i:0;O:73:"Akeneo\Pim\Structure\Component\Validator\Constraints\ImmutableVariantAxes":3:{s:12:"propertyPath";s:4:"axes";s:7:"payload";N;s:6:"groups";a:2:{i:0;s:7:"Default";i:1;s:19:"VariantAttributeSet";}}}s:18:"constraintsByGroup";a:2:{s:7:"Default";a:1:{i:0;r:3;}s:19:"VariantAttributeSet";a:1:{i:0;r:3;}}s:17:"traversalStrategy";i:1;s:7:"getters";a:0:{}s:13:"groupSequence";a:0:{}s:21:"groupSequenceProvider";b:0;s:7:"members";a:0:{}s:4:"name";s:56:"Akeneo\Pim\Structure\Component\Model\VariantAttributeSet";s:10:"properties";a:0:{}s:12:"defaultGroup";s:19:"VariantAttributeSet";}
